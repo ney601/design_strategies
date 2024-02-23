@@ -8,7 +8,9 @@ Choesion describes the level to which elements within a module are related to ea
 
 ### 2. What is the difference between top-down and bottom-up design? Which best describes a function oriented design?
 
+Top-down design gives an overview of the system, which is broken into smaller modules, and then further broken into finer details. Bottom-up design specifies each, individual part of the design in detail, which is then linked to form a complete system.
 
+Function-oriented design is best described by a top-down design, as the system is refined by a hierarchy of increasing levels of details.
 
 ### 3. In which design methodology would a class diagram be most useful?
 
