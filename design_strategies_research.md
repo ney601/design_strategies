@@ -14,6 +14,8 @@ Function-oriented design is best described by a top-down design, as the system i
 
 ### 3. In which design methodology would a class diagram be most useful?
 
+Class diagram would be most useful in an object-oriented design methodology, for example UML designing, as they clearly map out the structure of the system using its properties and methods.
+
 ### 4. What are the four pillars of object oriented programming? Give a single-sentence description of each.
 
 ### 5. What is the strategy pattern? How would its implementation differ between a functional and object oriented system?
