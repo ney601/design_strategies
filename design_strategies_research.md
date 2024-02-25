@@ -25,4 +25,8 @@ Polymorphism - The ability of objects from different classes to be treated as ob
 
 ### 5. What is the strategy pattern? How would its implementation differ between a functional and object oriented system?
 
+The strategy pattern is a behavioural design pattern. It defines a family of algorithms in their own classes, encapsulating each algorithm and making them interchangeable.
+
+In a functional system, only functions are needed to implement the different algorithms and allow them to interchange. Whereas in an object oriented system strategy objects that encapsulate different algorithms would have to be defined.
+
 ### 6. Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
