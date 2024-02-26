@@ -19,8 +19,11 @@ Class diagram would be most useful in an object-oriented design methodology, for
 ### 4. What are the four pillars of object oriented programming? Give a single-sentence description of each.
 
 Abstraction - Process of exposing only the functionality and the necessary aspects of the program.
+
 Encapsulation - Process of budling together code(methods) and data into a single unit.
+
 Inheritance - Process of creating a class that inherits properties and methods from another class.
+
 Polymorphism - The ability of objects from different classes to be treated as objects of a common superclass. 
 
 ### 5. What is the strategy pattern? How would its implementation differ between a functional and object oriented system?
