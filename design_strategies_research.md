@@ -30,3 +30,5 @@ The strategy pattern is a behavioural design pattern. It defines a family of alg
 In a functional system, only functions are needed to implement the different algorithms and allow them to interchange. Whereas in an object oriented system strategy objects that encapsulate different algorithms would have to be defined.
 
 ### 6. Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
+
+The object-oriented design methodology would be the most suitable design methodology as it enables code to be reusable giving way to high adaptability. It facilitates polymorphism and inheritance which allows for customisation suited for different sectors. OOD is more scalable and maintainable meaning the code can be easily modified to add new features without disrupting the whole system. Finally, it allows for encapsulation and abstraction giving a unified interface reagrdless of the sector.
